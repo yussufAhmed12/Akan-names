@@ -14,3 +14,6 @@ From the parent folder, Akan-names, you can open index.html on your browser
 Collaborate on this project by forking this repository to your github, clone it and create a new branch to make changes on, then push the changes to your remote repository.
 # Contact
 yussufahmed005@gmail.com
+# Copyright & License
+Distributed under the MIT License. See LICENSE for more information on license and copyright.
+
