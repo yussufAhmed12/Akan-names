@@ -23,7 +23,7 @@ h1{
 
 
 
-.button{
+.button:hover{
     padding: 5px;
     border-radius: 50%;
     background-color:blue;
