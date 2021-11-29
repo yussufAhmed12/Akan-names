@@ -1,0 +1,30 @@
+body{
+    background-image:url(/css/images/bc.jpg);
+}
+h1{
+    text-align: center;
+    font-weight: 700px;
+    font-size: xx-large;
+    
+}
+#prg{
+    text-align: left;
+}
+.image{
+    border: 5px;
+    padding: 5px;
+    display: block;
+}
+
+
+
+
+
+
+
+
+.button{
+    padding: 5px;
+    border-radius: 50%;
+    background-color:blue;
+}
