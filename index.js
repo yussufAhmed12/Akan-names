@@ -4,7 +4,6 @@ const date = document.getElementById("date");
 const button = document.getElementById("button");
 const rButton = document.getElementById("r-button");
 const btn = document.getElementById("btn");
-const kwasi = document.getElementById("kwasi");
 
 
 
